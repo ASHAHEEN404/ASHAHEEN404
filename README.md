@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 - 🔭 I’m a passionate Softwere developer exploring the ever-evolving world of web technologies.
-- 🌱 I’m currently enhancing my skills in HTML, CSS, and JavaScript, and React with a keen interest in NodeJs.
+- 🌱 I’m currently enhancing my skills in HTML, CSS, JavaScript, and React with a keen interest in NodeJs.
 
   ---
 

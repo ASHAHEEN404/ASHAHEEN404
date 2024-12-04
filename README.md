@@ -36,7 +36,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdallahkhaliid&theme=tokyonight-duo&border_radius=5&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdallahkhaliid&theme=highcontrast&border_radius=5&fire=EB5454)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHAHEEN404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
